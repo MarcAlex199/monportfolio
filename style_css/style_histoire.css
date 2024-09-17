@@ -1,0 +1,28 @@
+/* div>img {
+    width: 100vw;
+}
+
+footer {
+    background-color: #ade8f4;
+}
+
+
+div .uneimage {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+} */
+
+
+footer {
+    background-color: #1b263b;
+    color: white;
+
+}
+
+#laVilledeValenciennes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
